@@ -1,4 +1,13 @@
-# StockPrediction
+OBJECTIVE:
+
+The objective of this application is to create a stock predictor app using web scraped data(historical) to predict future stock closing price.
+The Prediction is done using FaceBook's Prophet and the web appplication has been created using Streamlit.
+
+CURRENT FEATURES:
+
+Basic stock closing price predictor using Facebook Prophet and prediction upto 4 years
+Historical Data obtained from webscraping NSE web
+Interactive Graphs made using Plotly
 
 
 ![image](https://github.com/user-attachments/assets/179f8222-c2f7-483a-8bd2-7f9cf3f80c09)
